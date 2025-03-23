@@ -22,4 +22,23 @@
 5. **Standardizing Product Names**
    - Mapped product names to meaningful names (e.g., `Carretera` → `Road Bike`).
 
+  -----
+  ## 📊 Inside the Project  
+
+### 🌍 Country-Wise Analysis  
+- **USA and Canada** have the highest sales, while **Mexico** has the lowest.  
+- **Sales exceed COGS**, indicating profitability.  
+- **France (21%)** and **Germany (21.5%)** generate the highest profit, whereas **Mexico (17.3%)** has the least.  
+
+### 🚴 Product-Wise Analysis  
+- **'All-Terrain Bike'** and **'Yellow Bike'** have **negative gross margins**, while **'Speed Bike'** has a **low margin**.  
+- **'Touring Bike'** is the **most profitable**, whereas **'Mountain Bike'** has lower profit.  
+- **'Touring Bike'** also has the **highest sales**, while **'Road Bike'** has the **lowest**.  
+- **'Touring Bike'** is the **best-selling product** in terms of units sold.  
+
+### 🏢 Segment-Wise Analysis  
+- The **Government sector** generates the **highest profit**, while **Midmarket** has the **least**.  
+- The **Enterprise sector** has **low profit margins** as **sales and COGS are nearly equal**.  
+- The **Government sector** sells the most units, followed by **Midmarket**, while **Small Business** has the lowest.  
+
 
