@@ -5,6 +5,15 @@
 
 ## Project Overview
 - <a href="https://github.com/RohitKumar649/In-depth-analysis-of-company-s-revenue/blob/main/In-depth%20analysis%20of%20%20company's%20revenue%20Pproject.ipynb">In-depth-analysis-of-company-s-revenue</a>
+----
+## 📂 Dataset Description  
+The dataset used in this project contains **valuable sales data**, categorized by **market segment** and **country/region**. These insights help in:  
+- **Understanding company performance**  
+- **Identifying growth opportunities**  
+- **Making data-driven decisions**  
+
+The dataset includes key metrics such as **sales figures, profit margins, and cost analysis**, providing a comprehensive view of business performance.
+----
 
 ## Cleaning Steps
 1. **Handling Column Name Issues**
