@@ -48,6 +48,12 @@ The dataset includes key metrics such as **sales figures, profit margins, and co
 ### 🏢 Segment-Wise Analysis  
 - The **Government sector** generates the **highest profit**, while **Midmarket** has the **least**.  
 - The **Enterprise sector** has **low profit margins** as **sales and COGS are nearly equal**.  
-- The **Government sector** sells the most units, followed by **Midmarket**, while **Small Business** has the lowest.  
+- The **Government sector** sells the most units, followed by **Midmarket**, while **Small Business** has the lowest.
+- ----
+## Technologies Used
+- 🐍 Python
+- 📊 Pandas, NumPy
+- 📉 Matplotlib, Seaborn
+- 💾 Jupyter Notebook
 
 
