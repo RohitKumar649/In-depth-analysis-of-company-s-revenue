@@ -35,7 +35,8 @@ The dataset includes key metrics such as **sales figures, profit margins, and co
   ## 📊 Inside the Project  
 
 ### 🌍 Country-Wise Analysis  
-- **USA and Canada** have the highest sales, while **Mexico** has the lowest.  
+- **USA and Canada** have the highest sales, while **Mexico** has the lowest. <a href="">View Chart</a>
+  
 - **Sales exceed COGS**, indicating profitability.  
 - **France (21%)** and **Germany (21.5%)** generate the highest profit, whereas **Mexico (17.3%)** has the least.  
 
