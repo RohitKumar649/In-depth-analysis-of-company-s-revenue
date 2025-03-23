@@ -56,4 +56,7 @@ The dataset includes key metrics such as **sales figures, profit margins, and co
 - 📉 Matplotlib, Seaborn
 - 💾 Jupyter Notebook
 
+  ## Exploratory Data Analysis
+One of the project's highlights is the exploratory data analysis (EDA). We'll visualize sales and profit trends over time, which will provide valuable insights into the company's performance. This analysis will help uncover patterns, identify areas of improvement, and support data-driven decision-making.
+
 
