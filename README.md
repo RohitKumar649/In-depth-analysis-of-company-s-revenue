@@ -37,19 +37,19 @@ The dataset includes key metrics such as **sales figures, profit margins, and co
 ### 🌍 Country-Wise Analysis  
 - **USA and Canada** have the highest sales, while **Mexico** has the lowest. <a href="">View Chart</a>
   
-- **Sales exceed COGS**, indicating profitability.  
-- **France (21%)** and **Germany (21.5%)** generate the highest profit, whereas **Mexico (17.3%)** has the least.  
+- **Sales exceed COGS**, indicating profitability. <a href="">View Chart</a>  
+- **France (21%)** and **Germany (21.5%)** generate the highest profit, whereas **Mexico (17.3%)** has the least. <a href="">View Chart</a> 
 
 ### 🚴 Product-Wise Analysis  
-- **'All-Terrain Bike'** and **'Yellow Bike'** have **negative gross margins**, while **'Speed Bike'** has a **low margin**.  
-- **'Touring Bike'** is the **most profitable**, whereas **'Mountain Bike'** has lower profit.  
-- **'Touring Bike'** also has the **highest sales**, while **'Road Bike'** has the **lowest**.  
-- **'Touring Bike'** is the **best-selling product** in terms of units sold.  
+- **'All-Terrain Bike'** and **'Yellow Bike'** have **negative gross margins**, while **'Speed Bike'** has a **low margin**. <a href="">View Chart</a> 
+- **'Touring Bike'** is the **most profitable**, whereas **'Mountain Bike'** has lower profit. <a href="">View Chart</a> 
+- **'Touring Bike'** also has the **highest sales**, while **'Road Bike'** has the **lowest**. <a href="">View Chart</a> 
+- **'Touring Bike'** is the **best-selling product** in terms of units sold. <a href="">View Chart</a> 
 
 ### 🏢 Segment-Wise Analysis  
-- The **Government sector** generates the **highest profit**, while **Midmarket** has the **least**.  
-- The **Enterprise sector** has **low profit margins** as **sales and COGS are nearly equal**.  
-- The **Government sector** sells the most units, followed by **Midmarket**, while **Small Business** has the lowest.
+- The **Government sector** generates the **highest profit**, while **Midmarket** has the **least**. <a href="">View Chart</a> 
+- The **Enterprise sector** has **low profit margins** as **sales and COGS are nearly equal**. <a href="">View Chart</a> 
+- The **Government sector** sells the most units, followed by **Midmarket**, while **Small Business** has the lowest. <a href="">View Chart</a>
 - ----
 ## Technologies Used
 - 🐍 Python
