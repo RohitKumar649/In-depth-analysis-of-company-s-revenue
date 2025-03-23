@@ -58,5 +58,9 @@ The dataset includes key metrics such as **sales figures, profit margins, and co
 
   ## Exploratory Data Analysis
 One of the project's highlights is the exploratory data analysis (EDA). We'll visualize sales and profit trends over time, which will provide valuable insights into the company's performance. This analysis will help uncover patterns, identify areas of improvement, and support data-driven decision-making.
-
-
+![image Alt](https://github.com/RohitKumar649/In-depth-analysis-of-company-s-revenue/blob/main/COGS%20Sales%20By%20Country.png)
+![image Alt](https://github.com/RohitKumar649/In-depth-analysis-of-company-s-revenue/blob/main/Country%20wise%20Profit.png)
+![image Alt](https://github.com/RohitKumar649/In-depth-analysis-of-company-s-revenue/blob/main/Product%20wise%20sales.png)
+![image Alt](https://github.com/RohitKumar649/In-depth-analysis-of-company-s-revenue/blob/main/Product%20of%20Profit.png)
+![image Alt](https://github.com/RohitKumar649/In-depth-analysis-of-company-s-revenue/blob/main/Sales%20and%20COGS%20By%20Segment.png)
+![image Alt](https://github.com/RohitKumar649/In-depth-analysis-of-company-s-revenue/blob/main/Segment%20wise%20Profit.png)
