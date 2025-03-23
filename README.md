@@ -42,8 +42,8 @@ The dataset includes key metrics such as **sales figures, profit margins, and co
 ### 🚴 Product-Wise Analysis  
 - **'All-Terrain Bike'** and **'Yellow Bike'** have **negative gross margins**, while **'Speed Bike'** has a **low margin**. <a href="https://github.com/RohitKumar649/In-depth-analysis-of-company-s-revenue/blob/main/Product%20wise%20sales.png">View Chart</a> 
 - **'Touring Bike'** is the **most profitable**, whereas **'Mountain Bike'** has lower profit. <a href="https://github.com/RohitKumar649/In-depth-analysis-of-company-s-revenue/blob/main/Product%20of%20Profit.png">View Chart</a> 
-- **'Touring Bike'** also has the **highest sales**, while **'Road Bike'** has the **lowest**. <a href="">View Chart</a> 
-- **'Touring Bike'** is the **best-selling product** in terms of units sold. <a href="">View Chart</a> 
+- **'Touring Bike'** also has the **highest sales**, while **'Road Bike'** has the **lowest**. <a href="https://github.com/RohitKumar649/In-depth-analysis-of-company-s-revenue/blob/main/Gross%20sales%20and%20COGS.png">View Chart</a> 
+- **'Touring Bike'** is the **best-selling product** in terms of units sold. <a href="https://github.com/RohitKumar649/In-depth-analysis-of-company-s-revenue/blob/main/Units%20Sold.png">View Chart</a> 
 
 ### 🏢 Segment-Wise Analysis  
 - The **Government sector** generates the **highest profit**, while **Midmarket** has the **least**. <a href="https://github.com/RohitKumar649/In-depth-analysis-of-company-s-revenue/blob/main/Segment%20wise%20Profit.png">View Chart</a> 
